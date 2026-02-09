@@ -28,4 +28,3 @@ dq.push_back({curr, x});
          return ans ;
 
     }  //  Remove invalid i ,  Use best previous i ,  Store current j for future 
-};
